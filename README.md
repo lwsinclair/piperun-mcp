@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dinhogehm-piperun-mcp-badge.png)](https://mseep.ai/app/dinhogehm-piperun-mcp)
+
 # PipeRun MCP
 
 API de integração do PipeRun com Model Context Protocol (MCP).
